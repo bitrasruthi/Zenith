@@ -1,0 +1,12 @@
+@font-face {
+    font-family: gothic-black;
+    src: url('./NanumGothic-Bold.ttf');
+  }
+  @font-face {
+    font-family: gothic-bold;
+    src: url('./NanumGothic-ExtraBold.ttf');
+  }
+  @font-face {
+    font-family: gothic-regular;
+    src: url('./NanumGothic-Regular.ttf');
+  }
