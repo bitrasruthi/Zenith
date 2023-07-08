@@ -1,6 +1,7 @@
 {
   "name": "zenith-resort-and-spa",
-  "private": true,
+  "homepage": "https://bitrasruthi.github.io/portfolio/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
